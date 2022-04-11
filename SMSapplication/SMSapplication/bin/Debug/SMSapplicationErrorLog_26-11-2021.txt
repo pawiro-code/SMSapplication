@@ -1,0 +1,130 @@
+26.11.2021 08:29:12 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 09:00:36 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 09:39:15 ==> Brak postępu procesu BackgroundWorker. Zmodyfikuj stan WorkerReportsProgress, tak aby postęp był widoczny.
+26.11.2021 09:39:48 ==> Brak postępu procesu BackgroundWorker. Zmodyfikuj stan WorkerReportsProgress, tak aby postęp był widoczny.
+26.11.2021 10:19:59 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 10:36:04 ==> No data received from phone.
+26.11.2021 10:36:16 ==> Response received is incomplete.
+26.11.2021 10:36:48 ==> No data received from phone.
+26.11.2021 10:37:09 ==> No data received from phone.
+26.11.2021 10:37:31 ==> Response received is incomplete.
+26.11.2021 10:37:48 ==> No data received from phone.
+26.11.2021 10:38:18 ==> No data received from phone.
+26.11.2021 10:38:48 ==> No data received from phone.
+26.11.2021 10:39:18 ==> No data received from phone.
+26.11.2021 10:39:48 ==> No data received from phone.
+26.11.2021 10:40:18 ==> No data received from phone.
+26.11.2021 10:40:48 ==> No data received from phone.
+26.11.2021 10:41:18 ==> No data received from phone.
+26.11.2021 10:41:48 ==> Przekroczono limit czasu zapisu.
+26.11.2021 11:05:05 ==> Przekroczono limit czasu zapisu.
+26.11.2021 11:05:28 ==> Przekroczono limit czasu semafora.
+
+26.11.2021 11:05:35 ==> Port jest zamknięty.
+26.11.2021 11:06:05 ==> Port jest zamknięty.
+26.11.2021 11:06:24 ==> Przekroczono limit czasu semafora.
+
+26.11.2021 11:06:34 ==> Przekroczono limit czasu semafora.
+
+26.11.2021 11:06:35 ==> Port jest zamknięty.
+26.11.2021 11:07:05 ==> Port jest zamknięty.
+26.11.2021 11:07:35 ==> Port jest zamknięty.
+26.11.2021 11:08:05 ==> Port jest zamknięty.
+26.11.2021 11:08:35 ==> Port jest zamknięty.
+26.11.2021 11:09:05 ==> Port jest zamknięty.
+26.11.2021 11:09:35 ==> Port jest zamknięty.
+26.11.2021 11:10:03 ==> Podana nazwa portu nie rozpoczyna się od COM/com lub nie można jej rozpoznać jako prawidłowego portu szeregowego.
+Nazwa parametru: portName
+26.11.2021 11:10:09 ==> Podana nazwa portu nie rozpoczyna się od COM/com lub nie można jej rozpoznać jako prawidłowego portu szeregowego.
+Nazwa parametru: portName
+26.11.2021 11:26:35 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 11:26:40 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 11:26:45 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 11:26:50 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 11:27:18 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 11:27:21 ==> Port 'COM2' nie istnieje.
+26.11.2021 11:32:14 ==> No data received from phone.
+26.11.2021 11:32:49 ==> No data received from phone.
+26.11.2021 11:33:19 ==> No data received from phone.
+26.11.2021 11:33:25 ==> Response received is incomplete.
+26.11.2021 11:33:49 ==> No data received from phone.
+26.11.2021 11:34:19 ==> No data received from phone.
+26.11.2021 11:34:34 ==> Response received is incomplete.
+26.11.2021 11:35:19 ==> No data received from phone.
+26.11.2021 11:35:49 ==> No data received from phone.
+26.11.2021 11:36:19 ==> No data received from phone.
+26.11.2021 11:39:08 ==> Response received is incomplete.
+26.11.2021 11:41:14 ==> Response received is incomplete.
+26.11.2021 12:16:54 ==> Response received is incomplete.
+26.11.2021 12:18:21 ==> Port jest zamknięty.
+26.11.2021 12:18:38 ==> Response received is incomplete.
+26.11.2021 12:18:46 ==> Response received is incomplete.
+26.11.2021 12:32:43 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+26.11.2021 12:33:02 ==> Response received is incomplete.
+26.11.2021 12:34:25 ==> Response received is incomplete.
+26.11.2021 12:36:03 ==> Response received is incomplete.
+26.11.2021 12:37:52 ==> Response received is incomplete.
+26.11.2021 12:38:52 ==> Port jest zamknięty.
+26.11.2021 12:39:55 ==> Response received is incomplete.
+26.11.2021 12:40:20 ==> Response received is incomplete.
+26.11.2021 16:10:36 ==> Nie można uzyskać dostępu do portu 'COM5', ponieważ jest on używany przez inny proces.
+26.11.2021 16:17:11 ==> No data received from phone.
+26.11.2021 16:17:24 ==> No data received from phone.
+26.11.2021 16:17:25 ==> No data received from phone.
+26.11.2021 16:18:02 ==> Response received is incomplete.
+26.11.2021 16:18:29 ==> Response received is incomplete.
+26.11.2021 16:20:44 ==> Port jest zamknięty.
+26.11.2021 16:20:54 ==> Port jest zamknięty.
+26.11.2021 16:21:04 ==> Port jest zamknięty.
+26.11.2021 16:21:14 ==> Port jest zamknięty.
+26.11.2021 16:21:24 ==> Port jest zamknięty.
+26.11.2021 16:21:34 ==> Port jest zamknięty.
+26.11.2021 16:21:44 ==> Port jest zamknięty.
+26.11.2021 16:21:54 ==> Port jest zamknięty.
+26.11.2021 16:22:04 ==> Port jest zamknięty.
+26.11.2021 16:22:14 ==> Port jest zamknięty.
+26.11.2021 16:22:24 ==> Port jest zamknięty.
+26.11.2021 16:22:34 ==> Port jest zamknięty.
+26.11.2021 16:22:44 ==> Port jest zamknięty.
+26.11.2021 16:29:04 ==> Response received is incomplete.
+26.11.2021 16:29:51 ==> Response received is incomplete.
+26.11.2021 16:32:24 ==> Response received is incomplete.
+26.11.2021 16:40:59 ==> Response received is incomplete.
+26.11.2021 16:48:31 ==> No data received from phone.
+26.11.2021 16:51:14 ==> No data received from phone.
+26.11.2021 16:53:59 ==> No data received from phone.
+26.11.2021 16:54:13 ==> No data received from phone.
+26.11.2021 16:56:13 ==> No data received from phone.
+26.11.2021 17:03:17 ==> No data received from phone.
+26.11.2021 17:03:43 ==> No data received from phone.
+26.11.2021 17:03:53 ==> No data received from phone.
+26.11.2021 17:07:25 ==> No data received from phone.
+26.11.2021 17:10:05 ==> Response received is incomplete.
+26.11.2021 17:11:42 ==> Response received is incomplete.
+26.11.2021 17:12:43 ==> Response received is incomplete.
+26.11.2021 17:13:47 ==> No data received from phone.
+26.11.2021 17:15:00 ==> Response received is incomplete.
+26.11.2021 17:15:42 ==> Response received is incomplete.
+26.11.2021 17:16:02 ==> No data received from phone.
+26.11.2021 17:16:54 ==> No data received from phone.
+26.11.2021 17:17:17 ==> No data received from phone.
+26.11.2021 17:17:22 ==> No data received from phone.
+26.11.2021 17:17:52 ==> No data received from phone.
+26.11.2021 17:31:29 ==> Response received is incomplete.
+26.11.2021 17:32:18 ==> Response received is incomplete.
+26.11.2021 17:32:33 ==> Response received is incomplete.
+26.11.2021 17:32:55 ==> Response received is incomplete.
+26.11.2021 17:33:05 ==> Response received is incomplete.
+26.11.2021 17:34:51 ==> InvalidArgument=Wartość '-1' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+26.11.2021 17:35:04 ==> Response received is incomplete.
+26.11.2021 17:35:47 ==> Response received is incomplete.

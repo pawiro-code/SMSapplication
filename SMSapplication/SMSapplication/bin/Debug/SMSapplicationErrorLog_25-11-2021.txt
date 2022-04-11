@@ -1,0 +1,42 @@
+25.11.2021 16:51:21 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+25.11.2021 16:51:28 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+25.11.2021 16:51:34 ==> System zdalny jest niedostępny. Aby uzyskać informacje dotyczące rozwiązywania problemów z siecią, zobacz Pomoc systemu Windows.
+
+25.11.2021 16:51:40 ==> Port 'COM7' nie istnieje.
+25.11.2021 16:51:45 ==> Port 'COM7' nie istnieje.
+25.11.2021 16:51:52 ==> Port 'COM7' nie istnieje.
+25.11.2021 16:51:57 ==> Port 'COM7' nie istnieje.
+25.11.2021 16:52:06 ==> Przekroczono limit czasu semafora.
+
+25.11.2021 16:52:19 ==> No success message was received.
+25.11.2021 16:52:29 ==> No success message was received.
+25.11.2021 16:58:01 ==> No success message was received.
+25.11.2021 16:58:06 ==> No success message was received.
+25.11.2021 16:58:25 ==> No success message was received.
+25.11.2021 17:03:59 ==> No success message was received.
+25.11.2021 17:04:03 ==> No success message was received.
+25.11.2021 17:04:03 ==> No success message was received.
+25.11.2021 17:04:03 ==> No success message was received.
+25.11.2021 17:04:03 ==> No success message was received.
+25.11.2021 17:04:03 ==> No success message was received.
+25.11.2021 17:04:39 ==> No success message was received.
+25.11.2021 17:04:41 ==> No success message was received.
+25.11.2021 17:04:42 ==> No success message was received.
+25.11.2021 17:04:42 ==> No success message was received.
+25.11.2021 17:04:42 ==> No success message was received.
+25.11.2021 17:45:52 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 17:45:55 ==> No data received from phone.
+25.11.2021 17:46:24 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 17:46:27 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 17:46:29 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 17:46:30 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 17:46:30 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 17:46:30 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 17:46:30 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 17:46:30 ==> Nieprawidłowy format ciągu wejściowego.
+25.11.2021 18:05:36 ==> No success message was received.
+25.11.2021 18:06:28 ==> No success message was received.
+25.11.2021 18:07:31 ==> No success message was received.
+25.11.2021 18:10:37 ==> No success message was received.

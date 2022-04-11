@@ -1,0 +1,584 @@
+31.03.2022 08:40:57 ==> Port jest zamknięty.
+31.03.2022 08:40:57 ==> Port jest zamknięty.
+31.03.2022 08:40:57 ==> Port jest zamknięty.
+31.03.2022 08:40:57 ==> Port jest zamknięty.
+31.03.2022 08:40:57 ==> Port jest zamknięty.
+31.03.2022 08:40:57 ==> Port jest zamknięty.
+31.03.2022 08:40:57 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:58 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:40:59 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:00 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:01 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:02 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:03 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:04 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:05 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:06 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:07 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:08 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:09 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:10 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:11 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:12 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:13 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:14 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:15 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:16 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:17 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:18 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:19 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:20 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:21 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:41:22 ==> Port jest zamknięty.
+31.03.2022 08:46:55 ==> No data received from phone.
+31.03.2022 08:46:55 ==> No data received from phone.
+31.03.2022 09:06:17 ==> Response received is incomplete.
+31.03.2022 09:54:20 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:05:04 ==> Response received is incomplete.
+31.03.2022 10:10:57 ==> Response received is incomplete.
+31.03.2022 10:12:32 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:12:35 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:12:39 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:12:43 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:12:46 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:13:05 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:13:09 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:13:12 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:13:16 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:13:20 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:13:27 ==> Response received is incomplete.
+31.03.2022 10:13:31 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:13:34 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:14:18 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:14:22 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:19 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:20 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:22 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:24 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:25 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:27 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:28 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:30 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:31 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:33 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:35 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:36 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:38 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:39 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:15:41 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:27 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:28 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:30 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:31 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:33 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:35 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:36 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:38 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:52 ==> Port jest zamknięty.
+31.03.2022 10:16:55 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:56 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:58 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:16:59 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:17:01 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:17:03 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:17:04 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:17:06 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:17:07 ==> Nieprawidłowa operacja między wątkami: do formantu 'lvwMessages' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 10:17:52 ==> Port jest zamknięty.
+31.03.2022 10:22:06 ==> Port jest zamknięty.
+31.03.2022 10:22:25 ==> Response received is incomplete.
+31.03.2022 10:23:42 ==> No data received from phone.
+31.03.2022 10:23:57 ==> No data received from phone.
+31.03.2022 10:25:00 ==> No data received from phone.
+31.03.2022 10:25:14 ==> No data received from phone.
+31.03.2022 10:25:29 ==> No data received from phone.
+31.03.2022 10:25:53 ==> No data received from phone.
+31.03.2022 11:00:37 ==> Response received is incomplete.
+31.03.2022 11:02:27 ==> No data received from phone.
+31.03.2022 11:02:29 ==> Response received is incomplete.
+31.03.2022 11:02:43 ==> Response received is incomplete.
+31.03.2022 11:02:45 ==> Response received is incomplete.
+31.03.2022 11:03:00 ==> No data received from phone.
+31.03.2022 12:53:36 ==> Wartość '0' nie jest prawidłową wartością dla 'Value'. Wartość 'Value' powinna znajdować się w zakresie od 'minimum' do 'maximum'.
+Nazwa parametru: Value
+31.03.2022 12:53:57 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 12:54:55 ==> Wartość '0' nie jest prawidłową wartością dla 'Value'. Wartość 'Value' powinna znajdować się w zakresie od 'minimum' do 'maximum'.
+Nazwa parametru: Value
+31.03.2022 12:55:16 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:03:14 ==> Wartość '0' nie jest prawidłową wartością dla 'Value'. Wartość 'Value' powinna znajdować się w zakresie od 'minimum' do 'maximum'.
+Nazwa parametru: Value
+31.03.2022 13:03:36 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:04:49 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:06:10 ==> Nieprawidłowa operacja między wątkami: do formantu 'listView2' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:08:18 ==> Nieprawidłowa operacja między wątkami: do formantu 'listView2' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:09:20 ==> Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+31.03.2022 13:09:39 ==> Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+31.03.2022 13:13:51 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:15:18 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:19:00 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:19:47 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:27:54 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:28:09 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:28:25 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:28:40 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:28:55 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:29:11 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:29:26 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:29:42 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:29:57 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:30:12 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:30:28 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:30:43 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:30:59 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:31:14 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:31:29 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:31:44 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:31:59 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:32:15 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:32:30 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:32:45 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:33:01 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:33:16 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:33:31 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:33:46 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:34:02 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 13:34:17 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 14:27:22 ==> Nieprawidłowa operacja między wątkami: do formantu 'pBar1' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 14:27:23 ==> No data received from phone.
+31.03.2022 14:27:23 ==> No data received from phone.
+31.03.2022 14:27:24 ==> No data received from phone.
+31.03.2022 14:27:24 ==> No data received from phone.
+31.03.2022 14:27:24 ==> No data received from phone.
+31.03.2022 14:27:25 ==> No data received from phone.
+31.03.2022 14:27:26 ==> No data received from phone.
+31.03.2022 14:27:26 ==> No data received from phone.
+31.03.2022 14:27:27 ==> No data received from phone.
+31.03.2022 14:27:28 ==> No data received from phone.
+31.03.2022 14:27:28 ==> No data received from phone.
+31.03.2022 14:27:29 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:29 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:29 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:29 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:30 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:30 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:30 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:31 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:31 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:31 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:31 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:32 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:32 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:32 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:32 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:33 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:33 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:33 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:34 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:34 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:34 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:34 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:35 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:35 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:35 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:36 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:36 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:36 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:36 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:37 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:27:37 ==> Przekroczono limit czasu zapisu.
+31.03.2022 14:31:32 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 14:32:19 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 14:32:21 ==> Indeks wykraczał poza granice tablicy.
+31.03.2022 14:32:24 ==> Wartość elementu StartIndex nie może być mniejsza od zera.
+Nazwa parametru: startIndex
+31.03.2022 14:33:05 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 14:34:39 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 14:34:53 ==> Indeks wykraczał poza granice tablicy.
+31.03.2022 14:34:53 ==> Response received is incomplete.
+31.03.2022 14:35:33 ==> Indeks wykraczał poza granice tablicy.
+31.03.2022 14:35:33 ==> Response received is incomplete.
+31.03.2022 14:35:33 ==> Indeks wykraczał poza granice tablicy.
+31.03.2022 14:37:14 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 14:37:20 ==> Indeks wykraczał poza granice tablicy.
+31.03.2022 14:38:54 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+31.03.2022 14:39:39 ==> No data received from phone.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:39 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:40 ==> Port jest zamknięty.
+31.03.2022 14:39:41 ==> Port jest zamknięty.
+31.03.2022 14:39:41 ==> Port jest zamknięty.
+31.03.2022 14:39:41 ==> Port jest zamknięty.
+31.03.2022 14:39:41 ==> Port jest zamknięty.
+31.03.2022 14:39:41 ==> Port jest zamknięty.
+31.03.2022 14:39:41 ==> Port jest zamknięty.
+31.03.2022 14:39:41 ==> Port jest zamknięty.
+31.03.2022 14:39:41 ==> Port jest zamknięty.

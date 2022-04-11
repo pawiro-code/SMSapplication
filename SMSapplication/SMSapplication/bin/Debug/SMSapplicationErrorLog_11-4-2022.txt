@@ -1,0 +1,19 @@
+11.04.2022 09:11:16 ==> Indeks wykraczał poza granice tablicy.
+11.04.2022 09:12:00 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+11.04.2022 09:12:35 ==> Wartość elementu StartIndex nie może być mniejsza od zera.
+Nazwa parametru: startIndex
+11.04.2022 09:13:50 ==> Indeks wykraczał poza granice tablicy.
+11.04.2022 09:23:11 ==> Indeks wykraczał poza granice tablicy.
+11.04.2022 09:23:12 ==> Response received is incomplete.
+11.04.2022 09:23:26 ==> Indeks wykraczał poza granice tablicy.
+11.04.2022 09:23:27 ==> Response received is incomplete.
+11.04.2022 09:23:33 ==> Indeks wykraczał poza granice tablicy.
+11.04.2022 09:23:33 ==> Response received is incomplete.
+11.04.2022 09:23:33 ==> Indeks wykraczał poza granice tablicy.
+11.04.2022 09:23:34 ==> Response received is incomplete.
+11.04.2022 09:23:40 ==> Indeks wykraczał poza granice tablicy.
+11.04.2022 09:23:40 ==> Response received is incomplete.
+11.04.2022 09:24:00 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+11.04.2022 09:25:44 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
+11.04.2022 09:26:37 ==> Response received is incomplete.
+11.04.2022 09:32:25 ==> Nieprawidłowa operacja między wątkami: do formantu 'button4' uzyskiwany jest dostęp z wątku innego niż wątek, w którym został utworzony.
