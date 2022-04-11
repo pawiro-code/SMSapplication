@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pmakuch\\Desktop\\Nowy folder (2)\\SMSapplication\\SMSapplication\\SMSapplication.csproj": {}
+    "C:\\Users\\pmakuch\\Documents\\GitHub\\SMSapplication\\SMSapplication\\SMSapplication\\SMSapplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pmakuch\\Desktop\\Nowy folder (2)\\SMSapplication\\SMSapplication\\SMSapplication.csproj": {
+    "C:\\Users\\pmakuch\\Documents\\GitHub\\SMSapplication\\SMSapplication\\SMSapplication\\SMSapplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pmakuch\\Desktop\\Nowy folder (2)\\SMSapplication\\SMSapplication\\SMSapplication.csproj",
+        "projectUniqueName": "C:\\Users\\pmakuch\\Documents\\GitHub\\SMSapplication\\SMSapplication\\SMSapplication\\SMSapplication.csproj",
         "projectName": "SMSapplication",
-        "projectPath": "C:\\Users\\pmakuch\\Desktop\\Nowy folder (2)\\SMSapplication\\SMSapplication\\SMSapplication.csproj",
+        "projectPath": "C:\\Users\\pmakuch\\Documents\\GitHub\\SMSapplication\\SMSapplication\\SMSapplication\\SMSapplication.csproj",
         "packagesPath": "C:\\Users\\pmakuch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pmakuch\\Desktop\\Nowy folder (2)\\SMSapplication\\SMSapplication\\obj\\",
+        "outputPath": "C:\\Users\\pmakuch\\Documents\\GitHub\\SMSapplication\\SMSapplication\\SMSapplication\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

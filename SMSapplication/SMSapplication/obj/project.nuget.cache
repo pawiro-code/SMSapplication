@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9nMiZAiwOSFKRpC1+ufj/WieLJvzK6KVUFUd7i0kMTA50cf0ZHaCDqYhbqwUOKpS9Q1CZHRYCTakvpHaT1MpQ==",
+  "dgSpecHash": "gt5DeJ+/mM5tVIQe2HyxPAlGnj1MWeXqR235+XrbT7zY2on6zmWWYOQcv+25iCFAsl8nyE7YpENg2uA0y80jYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pmakuch\\Desktop\\Nowy folder (2)\\SMSapplication\\SMSapplication\\SMSapplication.csproj",
+  "projectFilePath": "C:\\Users\\pmakuch\\Documents\\GitHub\\SMSapplication\\SMSapplication\\SMSapplication\\SMSapplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pmakuch\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
     "C:\\Users\\pmakuch\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.0\\microsoft.netframework.referenceassemblies.net461.1.0.0.nupkg.sha512",

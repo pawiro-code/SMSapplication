@@ -215,12 +215,7 @@ namespace SMSapplication
             }
             else if (recievedData.Contains("ERROR"))
             {
-                //string recievedError = recievedData;
-                //recievedError = recievedError.Trim();
-                //recievedData = "Following error occured while counting the message "
-                //    + recievedError;
-                //encounteredError = true;
-                //messageCount = 0;
+                
                 
             }
             return contact;
@@ -421,34 +416,5 @@ namespace SMSapplication
 
         #endregion
 
-        #region Delete SMS
-        public bool DeleteMessage(SerialPort port, string atCommand)
-        {
-            bool isDeleted = false;
-            try
-            {
-                #region Execute Command
-                string recievedData = SendATCommand(port,"AT", 300, "No phone connected");
-                recievedData = SendATCommand(port,"AT+CMGF=1", 300, "Failed to set message format.");
-                String command = atCommand;
-                recievedData = SendATCommand(port,command, 300, "Failed to delete message");
-                #endregion
-
-                if (recievedData.EndsWith("\r\nOK\r\n"))
-                {
-                    isDeleted = true;
-                }
-                if (recievedData.Contains("ERROR"))
-                {
-                    isDeleted = false;
-                }
-                return isDeleted;
-            }
-            catch (Exception ex)
-            {
-                throw ex; 
-            }            
-        }  
-        #endregion
     }
 }
