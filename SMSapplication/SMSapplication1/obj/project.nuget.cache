@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9nMiZAiwOSFKRpC1+ufj/WieLJvzK6KVUFUd7i0kMTA50cf0ZHaCDqYhbqwUOKpS9Q1CZHRYCTakvpHaT1MpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmakuch\\Desktop\\Nowy folder (2)\\SMSapplication\\SMSapplication\\SMSapplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmakuch\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\pmakuch\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.0\\microsoft.netframework.referenceassemblies.net461.1.0.0.nupkg.sha512",
+    "C:\\Users\\pmakuch\\.nuget\\packages\\microsoft.toolkit.uwp.notifications\\7.1.2\\microsoft.toolkit.uwp.notifications.7.1.2.nupkg.sha512",
+    "C:\\Users\\pmakuch\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\pmakuch\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\pmakuch\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\pmakuch\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
